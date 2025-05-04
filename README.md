@@ -1,3 +1,3 @@
-<a href="https://vibrant-ui-ten.vercel.app/docs/introduction" target="_blank">
+<a href="https://www.vibrant-ui.dev/" target="_blank">
 <img src="./social-cover.png">
 </>
