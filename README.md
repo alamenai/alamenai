@@ -1,4 +1,20 @@
-<div align="center">
-  <h1>People before platforms</h1>
-  <p>I feel most free on GitHub, contributing to open source and shaping technology that serves humanity.</p>
+<div>
+  <h1 align="center">Humanity over algorithms</h1>
+
+
+
+
+#### What I Believe
+
+```ts
+•	Humanity must always come before algorithms.
+  
+•	Technology should adapt to people—not the other way around.
+  
+•	Knowledge grows when it is shared freely.
+  
+•	Great software is measured not only by performance, but by its positive impact on lives.
+
+```
+
 </div>
